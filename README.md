@@ -74,13 +74,21 @@ In a distributed system, the processing is spread across multiple nodes or agent
   * **Di-NeRF**: Distributed NeRF for Multi-Robot Collaborative Learning with Unknown Relative Poses *arxiv, 2024* [[Paper](https://arxiv.org/abs/2402.01485)]
   * **MAGiC-SLAM**: Multi-Agent Gaussian Globally Consistent SLAM  *arxiv, 2024* [[Paper](https://arxiv.org/abs/2411.16785)]
   * **MAC-Ego3D**: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction [[Paper](https://arxiv.org/pdf/2412.09723)] [[Code](https://github.com/Xiaohao-Xu/MAC-Ego3D)]
+  * Multi-robot SLAM and Map Merging *CiteSeerX* [[Paper](https://citeseerx.ist.psu.edu/document?doi=fcd0e595e9659da5cc14c628c060a471da654d0a&repid=rep1&type=pdf&utm_source=chatgpt.com)]
   <!-- ### Multimodal -->
 
 ## Open source implementations
 * ROS1 packages for multi robot exploration [[Repository]](https://github.com/hrnr/m-explore)
 * Multi Robot Exploration and Map Merging [[Repository]](https://github.com/gingineer95/Multi-Robot-Exploration-and-Map-Merging)
 * Multi-robot autonomous exploration [[Repository]](https://github.com/robo-friends/m-explore-ros2)
-  
+
+## Relevant Resources
+An Open Framework for Researchin Visual-inertial Mapping and Localization
+* Multi-session map merging: *arxiv* [[Paper](https://arxiv.org/pdf/1711.10250)]
+* Visual place recognition with probabilistic voting: ICRA 2017 [[Paper](https://ieeexplore.ieee.org/document/7989362)]
+* Collaborative Navigation for Flying and Walking Robots: IROS 2016 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7759443)]
+* Autonomous Teamed Exploration of Subterranean Environments using Legged and Aerial Robot: *arxiv* [[Paper](https://arxiv.org/pdf/2111.06482)]
+* 
 <!-- ## Platform
 
 ## Environments -->
