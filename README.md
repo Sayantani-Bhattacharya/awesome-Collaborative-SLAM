@@ -17,6 +17,8 @@ For an overview of **Collabortive SLAM**, checkout the Survey ([Towards Collabor
   - [Decentralized SLAM](#decentralized-slam)
 
   - [Distributed SLAM](#distributed-slam)
+
+  - [Open source implementations](#implementations)
   <!-- - [Platform](#platform) -->
   <!-- <!-- - [Environments](#environments) -->
   - [Datasets](#datasets)
@@ -74,6 +76,11 @@ In a distributed system, the processing is spread across multiple nodes or agent
   * **MAC-Ego3D**: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction [[Paper](https://arxiv.org/pdf/2412.09723)] [[Code](https://github.com/Xiaohao-Xu/MAC-Ego3D)]
   <!-- ### Multimodal -->
 
+## Open source implementations
+* ROS1 packages for multi robot exploration [[Repository]](https://github.com/hrnr/m-explore)
+* Multi Robot Exploration and Map Merging [[Repository]](https://github.com/gingineer95/Multi-Robot-Exploration-and-Map-Merging)
+* Multi-robot autonomous exploration [[Repository]](https://github.com/robo-friends/m-explore-ros2)
+  
 <!-- ## Platform
 
 ## Environments -->
